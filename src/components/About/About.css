@@ -1,0 +1,7 @@
+.about {
+  background-color: black;
+  background-size: cover;
+  background-image: url("../../assets/img/ipad.png");
+  background-repeat: no-repeat;
+  height: 50vh;
+}
