@@ -3,5 +3,17 @@
   background-size: cover;
   background-image: url("../../assets/img/ipad.png");
   background-repeat: no-repeat;
-  height: 50vh;
+  height: 60vh;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.about-container > p {
+  color: rgb(176, 176, 176);
 }

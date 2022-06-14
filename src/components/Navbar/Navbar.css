@@ -1,2 +1,11 @@
-.navbar {
+.container-nav {
+  display: grid;
+  grid-template-columns: 15fr 2fr 2fr 1fr;
+  padding-left: 25px;
+  font-family: "Nunito", sans-serif;
+}
+
+.navbar-brand {
+  color: rgb(72, 72, 72);
+  font-family: "Nunito", sans-serif;
 }

@@ -10,10 +10,13 @@ export const Main = () => {
   // };
   return (
     <>
-      <div className="container-main">
-        <div className="container-title">
+      <div className="container-main container-fluid">
+        <div className="container-title container">
           <h1>Dream Together Developers</h1>
           <h2>"una idea de David Ubeda"</h2>
+          <a class="btn " href="#about">
+            Get Started
+          </a>
         </div>
       </div>
     </>

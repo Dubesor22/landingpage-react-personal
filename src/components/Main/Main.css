@@ -39,4 +39,20 @@ h1 {
 h2 {
   font-size: 2em;
   color: whitesmoke;
+  font-family: "Nunito", sans-serif;
+}
+
+.btn {
+  font-family: "Nunito", sans-serif;
+  background-color: #b7b7a4;
+  border: 1px solid #b7b7a4;
+  border-radius: 5px;
+  color: whitesmoke;
+  font-size: 1em;
+  font-weight: 400;
+  padding: 1em 3em;
+  text-transform: uppercase;
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+  margin-top: 1em;
 }
