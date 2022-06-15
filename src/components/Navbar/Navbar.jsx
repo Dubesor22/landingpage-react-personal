@@ -4,7 +4,7 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <>
-      <nav class="navbar sticky-top">
+      <nav class=" navbar sticky-top">
         <div class="container-nav">
           <a class="navbar-brand" href="#main">
             David Ubeda

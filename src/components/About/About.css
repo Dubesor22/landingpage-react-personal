@@ -16,4 +16,5 @@
 
 .about-container > p {
   color: rgb(176, 176, 176);
+  /* text-indent: 25px; */
 }
