@@ -14,9 +14,9 @@ export const Main = () => {
         <div className="container-title container">
           <h1>Dream Together Developers</h1>
           <h2>"una idea de David Ubeda"</h2>
-          <a class="btn " href="#about">
+          {/* <a class="btn-main " href="#about">
             Get Started
-          </a>
+          </a> */}
         </div>
       </div>
     </>
